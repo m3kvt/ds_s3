@@ -16,7 +16,7 @@ int main()
     matrix m[20];
     m[0].value = size;
 
-    printf("Enter the number of rows and coloumns: ");
+    printf("Enter the number of rows and columns: ");
     scanf("%d %d", &m[0].row, &m[0].col);
 
     printf("Enter the sparse matrix representation: ");
