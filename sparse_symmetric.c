@@ -46,6 +46,4 @@ int main()
         }
     }
     printf("Matrix is sparse symmetric\n");
-
-    return 0;
 }
