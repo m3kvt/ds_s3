@@ -1,2 +1,2 @@
 # ds_s3
-Data structures
+Data structures lab s3 ktu lab
